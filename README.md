@@ -1,4 +1,8 @@
+#The propper way to do it:
+You can use https://github.com/Sapd/HeadsetControl to read battery information on multiple Logitech headsets. Other useful information https://github.com/pwr-Solaar/Solaar/issues/272
+
 # G933-battery-information-script-for-linux
+Using the script:
 Python script to get battery information of a Logitech G933 headset on linux without Logitech Gaming Software
 
 #NO WARRANTY#
